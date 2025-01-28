@@ -40,9 +40,9 @@ import org.firstinspires.ftc.vision.apriltag.AprilTagDetection;
 import org.firstinspires.ftc.vision.apriltag.AprilTagProcessor;
 
 
-@Autonomous(name="JanRedRight", group="Linear Opmode")
+@Autonomous(name="MandoAtonomous", group="Linear Opmode")
 
-public class JanRedRight extends LinearOpMode {
+public class MandoAtonomous extends LinearOpMode {
 
 
     // Declare OpMode members.

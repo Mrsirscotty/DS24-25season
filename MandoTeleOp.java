@@ -14,8 +14,8 @@ import com.qualcomm.hardware.dfrobot.HuskyLens;
 //import org.firstinspires.ftc.robotcore.external.navigation.DistanceUnit;
 
 
-@TeleOp(name="BLUE", group="Linear Opmode")
-public class BLUE extends LinearOpMode {
+@TeleOp(name="MandoTeleOp", group="Linear Opmode")
+public class MandoTeleOp extends LinearOpMode {
     static final double BACK_POS     =  0.52;
     static final double MID_POS     =  0.3;     
     static final double FRONT_POS     =  0.42;
